@@ -9,7 +9,7 @@
 
 - 👯 I’m currently learning **React & JavaScript**
 
-- 🤝 Now I working as a [Graphic Designer on](https://www.fiverr.com/nine11pixels?up_rollout=true)
+- 🤝 Now I'm working as a [Graphic Designer on](https://www.fiverr.com/nine11pixels?up_rollout=true)
 
 - 💬 Ask me about **HTML, CSS & React**
 
